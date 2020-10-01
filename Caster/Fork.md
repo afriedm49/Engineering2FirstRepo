@@ -1,7 +1,7 @@
 # Fork 
 
 ## Description
-This is the Fork for the Caster, holding the wheel onto the base.
+This is the Fork for the Caster, holding the wheel onto the base. It was created on onshape, using a tutorial from canvas. 
 
 ## Link and image
 ![Fork Image](https://github.com/afriedm49/Engineering2FirstRepo/blob/master/Caster/Screen%20Shot%202020-09-30%20at%2010.48.00%20PM.png?raw=true)
